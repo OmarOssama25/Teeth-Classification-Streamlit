@@ -48,7 +48,6 @@ The model was trained with the following configuration:
 
 The model achieved high performance, with test accuracy reaching 99.6%. Below are some sample predictions and their corresponding true labels:
 
-[Insert images and descriptions of model performance, confusion matrix, etc.]
 
 ## Deployment
 
